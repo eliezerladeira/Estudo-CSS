@@ -1,0 +1,31 @@
+body {
+	background:yellow;
+}
+
+p {
+	font-size:40px;
+}
+
+#paragrafo01 {
+	font-size:30px;
+}
+
+.nome_da_classe {
+	font-size:50px;
+}
+
+.fundo_pagina {
+	background:#00FFFF;
+}
+
+.fundo_elemento {
+	background:rgba(152,152,152,1);
+}
+
+html {
+	height:100%;
+}
+
+.fundo_madeira {
+	background:url("imagens/DSC00774.jpg") bottom right no-repeat;
+}
